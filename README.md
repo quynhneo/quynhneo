@@ -1,4 +1,4 @@
-### Hi there, I am Quynh (or Neo) 👋
+### Hi there, I am Quynh 👋
 - 🔭 I’m currently working on topic modeling and dialect map of the arxiv articles
 - 📫 How to reach me: e-mail would be best
 
