@@ -1,5 +1,5 @@
 ### Hi there, I am Quynh 👋
-- 🔭 I’m currently working on topic modeling and dialect map of the arxiv articles
+- 🔭 I’m currently working on topic modeling and dialect map of the arxiv articles, and contributing to open source projects
 - 📫 How to reach me: e-mail would be best
 
 <!--
