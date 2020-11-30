@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on topic modeling and dialect map of the arxiv articles
+- 📫 How to reach me: e-mail would be best
 
 <!--
 **quynhneo/quynhneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
