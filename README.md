@@ -1,5 +1,5 @@
 ### Hi there, I am Quynh 👋
-- 🔭 I’m currently working on topic modeling and [dialect map](https://github.com/ds3-nyu-archive/ds-dialect-map) of the arxiv articles, and contributing to open source projects
+- 🔭 I’m currently working on [topic modeling](https://github.com/quynhneo/detm-arxiv) and [dialect map](https://github.com/ds3-nyu-archive/ds-dialect-map) of the arxiv articles, and contributing to open source projects
 - 📫 How to reach me: e-mail would be best
 
 <!--
