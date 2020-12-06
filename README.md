@@ -1,7 +1,6 @@
 ### Hi there, I am Quynh 👋
 - 🔭 I’m currently working on [topic modeling](https://github.com/quynhneo/detm-arxiv) and [dialect map](https://github.com/ds3-nyu-archive/ds-dialect-map) of the arxiv articles in collaboration with New York University's [Data Science and Software Services](https://github.com/ds3-nyu-archive), and contributing to other open source projects
-- 📫 How to reach me: e-mail would be best
-
+- 📫 How to reach me: Please e-mail
 <!--
 **quynhneo/quynhneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
