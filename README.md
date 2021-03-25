@@ -1,5 +1,6 @@
 ### Hi there, I am Quynh 👋
-- 🔭 I’m currently working on [topic modeling](https://github.com/quynhneo/detm-arxiv) and [dialect map](https://github.com/ds3-nyu-archive/ds-dialect-map) of the arxiv articles in collaboration with Professor of Physics [Kyle Cranmer](https://as.nyu.edu/content/nyu-as/as/faculty/kyle-s-cranmer.html) and [Data Science and Software Services](https://github.com/ds3-nyu-archive) at New York University, and contributing to other open source projects
+- 🔭 I’m currently working on [topic modeling](https://github.com/quynhneo/detm-arxiv) and [dialect map](https://github.com/ds3-nyu-archive/ds-dialect-map) of the arxiv articles in collaboration with Professor of Physics [Kyle Cranmer](https://as.nyu.edu/content/nyu-as/as/faculty/kyle-s-cranmer.html) and [Data Science and Software Services](https://github.com/ds3-nyu-archive) at New York University.
+- Open-source highlights: [Arxiv.org big text and citation graph mining](https://github.com/mattbierbaum/arxiv-public-datasets), PIVlab: [Image Processing tools](https://github.com/Shrediquette/PIVlab).
 - 📫 How to reach me: Please e-mail
 <!--
 **quynhneo/quynhneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
