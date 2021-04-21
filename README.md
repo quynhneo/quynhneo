@@ -4,7 +4,7 @@
  
   Big texts and graph mining tools: [arxiv-public-datasets](https://github.com/mattbierbaum/arxiv-public-datasets)
 
-  Parallel Image Processing Tools: [PIVlab](https://github.com/Shrediquette/PIVlab).
+  Parallel Image Processing Tools: [PIVlab](https://github.com/Shrediquette/PIVlab)
 - 📫 How to reach me: Please e-mail
 <!--
 **quynhneo/quynhneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
