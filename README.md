@@ -1,5 +1,5 @@
 ### Hi there, I am Quynh (pronounce almost like Quinn) 👋
-- I am an experimental physicist by training, and a postdoctoral researcher in fluid mechanics but my GitHub is mostly about data science/machine learning projects.
+- I am an experimental physicist by training my GitHub is mostly about data science/machine learning projects.
 - 🔭 I’m currently working on [topic modeling](https://github.com/quynhneo/detm-arxiv) and [dialect map](https://github.com/ds3-nyu-archive/ds-dialect-map) of the arxiv articles in collaboration with Professor of Physics [Kyle Cranmer](https://as.nyu.edu/content/nyu-as/as/faculty/kyle-s-cranmer.html) and [Data Science and Software Services](https://github.com/ds3-nyu-archive) at New York University.
 - Open-source highlights: 
  
