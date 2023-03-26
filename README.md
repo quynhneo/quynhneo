@@ -5,7 +5,7 @@
  
   Big texts and graph mining tools: [arxiv-public-datasets](https://github.com/mattbierbaum/arxiv-public-datasets). I contributed to adapting the packages to a new data pipe line from Google Cloud Service. 
 
-  Image Processing Tools: [PIVlab](https://github.com/Shrediquette/PIVlab). This is the post popular Particle Image Velocimetry MATLAB program, cited in thousands of research articles. I contributed to its parallelization and the design of the command line interface. I am also a maintainer of the project.  
+  Image Processing Tools: [PIVlab](https://github.com/Shrediquette/PIVlab). This is the most popular open source Particle Image Velocimetry MATLAB program, cited in thousands of research articles. I contributed to its parallelization and the design of the command line interface. I am also a maintainer of the project.  
 - 📫 How to reach me: Please e-mail
 <!--
 **quynhneo/quynhneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
