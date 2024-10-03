@@ -8,7 +8,7 @@
   Image Processing Tools: [PIVlab](https://github.com/Shrediquette/PIVlab). This is the most popular open source Particle Image Velocimetry MATLAB program, cited in thousands of research articles. I contributed to its parallelization and the design of the command line interface. I am also a maintainer of the project.  
   
   I have also peer-reviewed for the Journal of Open Source Software (JOSS). 
-- 📫 How to reach me: Please e-mail
+- 📫 How to reach me: Please e-mail qmn203@nyu.edu
 <!--
 **quynhneo/quynhneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
