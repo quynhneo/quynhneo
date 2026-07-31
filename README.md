@@ -1,4 +1,4 @@
-### Hi there, I am Minh (pronounce almost like) 👋
+### Hi there, I am Minh  👋
 - I am a physicist by training, and my main career is in physics. My GitHub is mostly about data science/machine learning projects.
 - 🔭 I worked on [topic modeling](https://github.com/quynhneo/detm-arxiv) and [dialect map](https://github.com/ds3-nyu-archive/ds-dialect-map) of the arxiv articles in collaboration with Professor of Physics [Kyle Cranmer](https://as.nyu.edu/content/nyu-as/as/faculty/kyle-s-cranmer.html), [Sinclert Pérez](https://github.com/Sinclert) and [Data Science and Software Services](https://github.com/ds3-nyu-archive) at New York University.
 - Open-source highlights: 
